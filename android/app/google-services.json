@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "441031641508",
+    "project_id": "sobarbabedating",
+    "storage_bucket": "sobarbabedating.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441031641508:android:7682e1df157c5d770a9931",
+        "android_client_info": {
+          "package_name": "com.flavioalvarado.sobarbabesclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441031641508-iljn7c6cosnbm994sfui5hd9gaj4r88d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-ivxXOHS4rEBRcieKVpDdaCGkodROkYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441031641508-iljn7c6cosnbm994sfui5hd9gaj4r88d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
